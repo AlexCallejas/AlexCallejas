@@ -14,6 +14,13 @@ _Geek by nature, Linux by choice, Fedora of course ..._
 - Slides: [Fedora People](https://darkaxl017.fedorapeople.org/slides/)
 - Articles: [opensource.com](https://opensource.com/users/darkaxl) | [Enable Sysadmin](https://www.redhat.com/sysadmin/users/darkaxl) | [Red Hat Blog](https://www.redhat.com/en/authors/alex-callejas)
 
+#### Pre-order my book 📖:
+
+<img src="https://github.com/darkaxl/darkaxl/blob/master/PreOrder.png" alt="Fedora Linux System Administration">
+
+- [Fedora Linux System Administration](https://packt.link/Alex)
+
+
 <!--
 **darkaxl/darkaxl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
