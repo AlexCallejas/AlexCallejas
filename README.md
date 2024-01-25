@@ -8,6 +8,8 @@ _Geek by nature, Linux by choice, Fedora of course ..._
 
 ### Find me around the web 🌎:
 
+<img align="right" src="https://github.com/AlexCallejas/AlexCallejas/blob/master/FedoraLinuxAdminBook.png" alt="Fedora Linux System Administration">
+
 - Twitter: [@dark_axl](https://twitter.com/dark_axl)
 - Linkedin: [Alex Callejas](https://www.linkedin.com/in/alexcallejas/)
 - Slides: [Fedora People](https://darkaxl017.fedorapeople.org/slides/)
@@ -19,8 +21,6 @@ _Geek by nature, Linux by choice, Fedora of course ..._
 - [Red Hat Blog](https://www.redhat.com/en/authors/alex-callejas)
 
 #### Buy my Book 📖:
-
-<img align="right" src="https://github.com/AlexCallejas/AlexCallejas/blob/master/FedoraLinuxAdminBook.png" alt="Fedora Linux System Administration">
 
 - [Fedora Linux System Administration](https://packt.link/Alex)
 
