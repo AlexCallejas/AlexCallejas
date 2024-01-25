@@ -20,7 +20,7 @@ _Geek by nature, Linux by choice, Fedora of course ..._
 
 #### Buy my Book 📖:
 
-<img src="https://github.com/AlexCallejas/AlexCallejas/blob/master/FedoraLinuxAdminBook.png" alt="Fedora Linux System Administration">
+<img align="right" src="https://github.com/AlexCallejas/AlexCallejas/blob/master/FedoraLinuxAdminBook.png" alt="Fedora Linux System Administration">
 
 - [Fedora Linux System Administration](https://packt.link/Alex)
 
