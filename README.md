@@ -26,7 +26,7 @@ _Geek by nature, Linux by choice, Fedora of course ..._
 
 #### rootzilopochtli 🌐:
 
-- [Blog](http://www.rootzilopochtli.com/) 
+- [Blog](https://www.rootzilopochtli.com/) 
 - [Twitter](https://twitter.com/rootzilopochtli) 
 - [Facebook](https://www.facebook.com/rootzilopochtli) 
 - [YouTube](https://www.youtube.com/c/rootzilopochtli) 
