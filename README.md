@@ -17,7 +17,6 @@ _Geek by nature, Linux by choice, Fedora of course ..._
 #### Articles 📝:
 
 - [opensource.com](https://opensource.com/users/darkaxl) 
-- [Enable Sysadmin](https://www.redhat.com/sysadmin/users/darkaxl) 
 - [Red Hat Blog](https://www.redhat.com/en/authors/alex-callejas)
 
 #### Buy my Book 📖:
