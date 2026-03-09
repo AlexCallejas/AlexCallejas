@@ -1,74 +1,63 @@
 ![Logo](https://github.com/darkaxl/darkaxl/blob/master/header4github.png)
 
-## 💻 Alex Callejas
+# 🐧 Alex Callejas
 
-I am an OpenSource enthusiast, a lifelong SysAdmin (Old School), love to share ideas and projects based on FOSS.
+**Services Content Architect at Red Hat | Technical Author & Reviewer | Open Source Advocate**
 
-_Geek by nature, Linux by choice, Fedora of course ..._
+I am an Open Source enthusiast and a lifelong SysAdmin with more than 25 years of experience in Unix/Linux infrastructure. Currently, I design global certification content at **Red Hat**, focusing on automation, security, and cloud technologies.
 
-### Find me around the web 🌎:
+*"Geek by nature, Linux by choice, Fedora of course..."*
 
-<img align="right" src="https://github.com/AlexCallejas/AlexCallejas/blob/master/FedoraLinuxAdminBook.png" alt="Fedora Linux System Administration">
+---
 
-- Twitter: [@dark_axl](https://twitter.com/dark_axl)
-- Linkedin: [Alex Callejas](https://www.linkedin.com/in/alexcallejas/)
-- Slides: [Fedora People](https://darkaxl017.fedorapeople.org/slides/)
+### 📚 Featured Publications
 
-#### Articles 📝:
+I am passionate about sharing knowledge through deep-dive technical literature and peer reviews.
 
-- [opensource.com](https://opensource.com/users/darkaxl) 
-- [Red Hat Blog](https://www.redhat.com/en/authors/alex-callejas)
+| Book Title | Role | Publisher |
+| :--- | :--- | :--- |
+| **[First Steps with Linux](https://read.sysxplore.com/l/first-steps-with-linux)** | Technical Reviewer | Sysxplore Press (2026) |
+| **[Fedora Linux System Administration](https://packt.link/Alex)** | Author | Packt Publishing (2023) |
 
-#### Buy my Book 📖:
+---
 
-- [Fedora Linux System Administration](https://packt.link/Alex)
+### 🎤 Upcoming Speaking Engagements
 
-#### rootzilopochtli 🌐:
+Catch me at these upcoming events where I'll be sharing insights on Linux, Cloud, and Open Source.
 
-- [Blog](https://www.rootzilopochtli.com/) 
-- [Twitter](https://twitter.com/rootzilopochtli) 
-- [Facebook](https://www.facebook.com/rootzilopochtli) 
-- [YouTube](https://www.youtube.com/c/rootzilopochtli) 
-- [Twitch](https://www.twitch.tv/rootzilopochtli) 
-- [Instagram](https://www.instagram.com/rootzilopochtli/) 
-- [TikTok](https://www.tiktok.com/@rootzilopochtli?)
+- **[AWS Student Community Day](https://studentday.awscommunity.mx/)** | Saltillo, Mexico | March 14, 2026
+- **[KCD Guadalajara 2026](https://community.cncf.io/events/details/cncf-kcd-guadalajara-presents-kcd-guadalajara-2026/)** | Guadalajara, Mexico | April 18-19, 2026
+- **[FLISoL @ TES OEM](https://flisol.info/FLISOL2026/Mexico)** | Tecamachalco, Mexico | April 24, 2026
+- **[Flock - The Fedora Project Conference](https://fedoraproject.org/flock/2026/)** | Prague, Czech Republic | June 14-16, 2026
 
-<!--
-### Alex Callejas 💻
+---
 
-<img src="https://github.com/darkaxl/darkaxl/blob/master/header4github.png" alt="banner of rootzilopochtli.com">
+### ✍️ Technical Writing & Articles
 
-I am an OpenSource enthusiast, SysAdmin lifelong  (Old School), venturing into the use of sharing ideas and projects through this platform.
+I regularly contribute to leading industry blogs on topics like SELinux, Ansible, and system security.
 
-_Geek by nature, Linux by choice, Fedora of course ..._
+* **[Red Hat Blog](https://www.redhat.com/en/authors/alex-callejas):** Insights on enterprise infrastructure and automation.
+* **[Opensource.com](https://opensource.com/users/darkaxl):** Practical guides and community-driven tutorials.
+* **[rootzilopochtli.com](https://www.rootzilopochtli.com/):** My personal blog where it all began.
 
-#### Find me around the web 🌎:
+---
 
-- Twitter: [@dark_axl](https://twitter.com/dark_axl)
-- rootzilopochtli: [Blog](http://www.rootzilopochtli.com/) | [Twitter](https://twitter.com/rootzilopochtli) | [Facebook](https://www.facebook.com/rootzilopochtli) | [YouTube](https://www.youtube.com/c/rootzilopochtli) | [Twitch](https://www.twitch.tv/rootzilopochtli) | [Instagram](https://www.instagram.com/rootzilopochtli/) | [TikTok](https://www.tiktok.com/@rootzilopochtli?)
-- Linkedin: [Alex Callejas](https://www.linkedin.com/in/alexcallejas/)
-- Slides: [Fedora People](https://darkaxl017.fedorapeople.org/slides/)
-- Articles: [opensource.com](https://opensource.com/users/darkaxl) | [Enable Sysadmin](https://www.redhat.com/sysadmin/users/darkaxl) | [Red Hat Blog](https://www.redhat.com/en/authors/alex-callejas)
+### 🛠️ Tech Stack & Expertise
 
-#### Pre-order my book 📖:
+- **OS:** RHEL, Fedora, Debian, SUSE, Solaris, AIX.
+- **Automation:** Ansible, Shell Scripting, Python.
+- **Cloud/Virtualization:** OpenShift, OpenStack, VMware, AWS, GCP.
+- **Security:** Advanced SELinux Policy Administration.
 
-<img src="https://github.com/AlexCallejas/AlexCallejas/blob/master/PreOrder.png" alt="Fedora Linux System Administration">
+---
 
-- [Fedora Linux System Administration](https://packt.link/Alex)
+### Connect with me 🌎
 
+<p align="left">
+<a href="https://www.linkedin.com/in/alexcallejas/" target="blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="Alex Callejas LinkedIn" /></a>
+<a href="https://twitter.com/dark_axl" target="blank"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white" alt="dark_axl Twitter" /></a>
+<a href="https://www.youtube.com/c/rootzilopochtli" target="blank"><img src="https://img.shields.io/badge/youtube-%23FF0000.svg?style=for-the-badge&logo=youtube&logoColor=white" alt="rootzilopochtli YouTube" /></a>
+</p>
 
-**darkaxl/darkaxl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-### Hi there 👋
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+*Last updated: March 2026*
