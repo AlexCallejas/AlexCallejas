@@ -25,6 +25,8 @@ I am passionate about sharing knowledge through deep-dive technical literature a
 
 Catch me at these upcoming events where I'll be sharing insights on Linux, Cloud, and Open Source.
 
+📂 **[Access my Presentation Slides Repository](https://darkaxl017.fedorapeople.org/slides/)**
+
 - **[AWS Student Community Day](https://studentday.awscommunity.mx/)** | Saltillo, Mexico | March 14, 2026
 - **[KCD Guadalajara 2026](https://community.cncf.io/events/details/cncf-kcd-guadalajara-presents-kcd-guadalajara-2026/)** | Guadalajara, Mexico | April 18-19, 2026
 - **[FLISoL @ TES OEM](https://flisol.info/FLISOL2026/Mexico)** | Tecamachalco, Mexico | April 24, 2026
