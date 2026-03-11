@@ -2,7 +2,7 @@
 
 # 🐧 Alex Callejas
 
-**Services Content Architect at Red Hat | Technical Author & Reviewer | Open Source Advocate**
+**Content Architect at Red Hat | Technical Author & Reviewer | Open Source Advocate**
 
 I am an Open Source enthusiast and a lifelong SysAdmin with more than 25 years of experience in Unix/Linux infrastructure. Currently, I design global certification content at **Red Hat**, focusing on automation, security, and cloud technologies.
 
