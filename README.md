@@ -65,4 +65,6 @@ I regularly contribute to leading industry blogs on topics like SELinux, Ansible
 </p>
 
 ---
-*Last updated: March 2026*
+👤 **Alex (@rootzilopochtli)** *Content Architect at Red Hat | Member of the Fedora Project | Author of “Fedora Linux System Administration”*
+___
+*Last updated: April 2026*
