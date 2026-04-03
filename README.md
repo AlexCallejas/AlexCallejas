@@ -2,7 +2,7 @@
 
 # 🐧 Alex Callejas
 
-**Content Architect at Red Hat | Technical Author & Reviewer | Open Source Advocate**
+**Content Architect at Red Hat | Member of the Fedora Project | Technical Author & Reviewer | Open Source Advocate**
 
 I am an Open Source enthusiast and a lifelong SysAdmin with more than 25 years of experience in Unix/Linux infrastructure. Currently, I design global certification content at **Red Hat**, focusing on automation, security, and cloud technologies.
 
@@ -64,7 +64,5 @@ I regularly contribute to leading industry blogs on topics like SELinux, Ansible
 <a href="https://www.youtube.com/c/rootzilopochtli" target="blank"><img src="https://img.shields.io/badge/youtube-%23FF0000.svg?style=for-the-badge&logo=youtube&logoColor=white" alt="rootzilopochtli YouTube" /></a>
 </p>
 
----
-👤 **Alex (@rootzilopochtli)** *Content Architect at Red Hat | Member of the Fedora Project | Author of “Fedora Linux System Administration”*
 ___
 *Last updated: April 2026*
