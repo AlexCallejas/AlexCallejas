@@ -29,7 +29,7 @@ Catch me at these upcoming events where I'll be sharing insights on Linux, Cloud
 
 - **[AWS Student Community Day](https://studentday.awscommunity.mx/)** | Saltillo, Mexico | March 14, 2026
 - **[KCD Guadalajara 2026](https://community.cncf.io/events/details/cncf-kcd-guadalajara-presents-kcd-guadalajara-2026/)** ☁️ | Guadalajara, Mexico | April 18-19, 2026
-- **[Compufest @ Facultad de Ciencias UNAM](https://www.compufest.cc/)** | CDMX, Mexico | April 23, 2026
+- **[Compufest @ Facultad de Ciencias UNAM](https://www.compufest.cc/)** 💻 | CDMX, Mexico | April 23, 2026
 - **[FLISoL @ TES OEM](https://maps.app.goo.gl/whjchZ7AcF5JHYSb9)** ☀️ | Tecamachalco, Mexico | April 24, 2026
 - **[FLISoL @ Centro Cultural El Rule](https://maps.app.goo.gl/MkZ3rE3CY1vhgeqL9)** ☀️ | CDMX, Mexico | April 25, 2026
 - **[FLISoL @ Centro Cultural Emiliano Zapata](https://maps.app.goo.gl/NNTqMU4gyY1J7qSd9)** ☀️ | Ecatepec, Mexico | April 26, 2026
