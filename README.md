@@ -50,6 +50,17 @@ I regularly contribute to leading industry blogs on topics like SELinux, Ansible
 
 ---
 
+### 🇲🇽 Join Fedora México!
+
+> *"¡Fedora México te necesita! ¡Únete a la comunidad! Tenemos galletas 🍪 (y el código fuente)"* — *Honey, I shrunk the cluster*
+
+Be part of our local community and access our community resources:
+* 💬 **Telegram:** [t.me/fedoramexico](https://t.me/fedoramexico)
+* 🐦 **X (Twitter):** [x.com/fedoramexico](https://x.com/fedoramexico)
+* 📂 **Community Slides:** [fedoramx.fedorapeople.org](https://fedoramx.fedorapeople.org)
+
+---
+
 ### Connect with me 🌎
 
 <p align="left">
