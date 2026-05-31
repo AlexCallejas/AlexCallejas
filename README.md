@@ -27,7 +27,6 @@ Catch me at these upcoming events where I'll be sharing insights on Linux, Cloud
 
 📂 **[Access my Presentation Slides Repository](https://darkaxl017.fedorapeople.org/slides/)**
 
-- **[FLISoL @ Facultad de Ingenieria UNAM](https://lidsol.unam.mx/#events/14)** ☀️ | CDMX, Mexico | May 8, 2026
 - **[Flock - The Fedora Project Conference](https://fedoraproject.org/flock/2026/)** ⭐️ | Prague, Czech Republic | June 14-16, 2026
 
 ---
