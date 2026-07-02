@@ -2,7 +2,7 @@
 
 # 🐧 Alex Callejas
 
-**Content Architect at Red Hat | Member of the Fedora Project | Technical Author & Reviewer | Open Source Advocate**
+**Technical Training Developer at Red Hat | Member of the Fedora Project | Technical Author & Reviewer | Open Source Advocate**
 
 I am an Open Source enthusiast and a lifelong SysAdmin with more than 25 years of experience in Unix/Linux infrastructure. Currently, I design global certification content at **Red Hat**, focusing on automation, security, and cloud technologies.
 
