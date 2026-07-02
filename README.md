@@ -27,7 +27,8 @@ Catch me at these upcoming events where I'll be sharing insights on Linux, Cloud
 
 📂 **[Access my Presentation Slides Repository](https://darkaxl017.fedorapeople.org/slides/)**
 
-- **[Flock - The Fedora Project Conference](https://fedoraproject.org/flock/2026/)** ⭐️ | Prague, Czech Republic | June 14-16, 2026
+- **[Faro de Indios Verdes - Convivio de Software Libre](https://www.instagram.com/p/DZ-r3MdJ0lO/?igsh=MXdrOTVma2J5ZWJ1aQ==)** 🐧 | Santa Isabel Tola, GAM CDMX  | July 4, 2026
+- **[DEVCONF.US - open source community conference](https://www.devconf.info/us/)** 💻 | Boston, USA | September 24-25, 2026
 
 ---
 
@@ -70,4 +71,4 @@ Be part of our local community and access our community resources:
 </p>
 
 ___
-*Last updated: May 2026*
+*Last updated: July 2026*
