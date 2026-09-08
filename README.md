@@ -27,8 +27,9 @@ Catch me at these upcoming events where I'll be sharing insights on Linux, Cloud
 
 📂 **[Access my Presentation Slides Repository](https://darkaxl017.fedorapeople.org/slides/)**
 
-- **[Faro de Indios Verdes - Convivio de Software Libre](https://www.instagram.com/p/DZ-r3MdJ0lO/?igsh=MXdrOTVma2J5ZWJ1aQ==)** 🐧 | Santa Isabel Tola, GAM CDMX  | July 4, 2026
 - **[DEVCONF.US - open source community conference](https://www.devconf.info/us/)** 💻 | Boston, USA | September 24-25, 2026
+- **[Open Source Collaboration - Modalidad Virtual](https://www.youtube.com/@LinuxerosZapopan)** 💻 | Zapopan, GDL | October 1st, 2026
+- **[PyDay México 2026 - CDMX](https://pyday.mx)** 🐍 | Instituto Tecnológico Gustavo A. Madero, CDMX | October 10, 2026
 
 ---
 
