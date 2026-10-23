@@ -27,8 +27,9 @@ Catch me at these upcoming events where I'll be sharing insights on Linux, Cloud
 
 📂 **[Access my Presentation Slides Repository](https://darkaxl017.fedorapeople.org/slides/)**
 
-- **[Open Source Collaboration - Modalidad Virtual](https://www.youtube.com/@LinuxerosZapopan)** 💻 | Zapopan, GDL | October 1st, 2026
-- **[PyDay México 2026 - CDMX](https://pyday.mx)** 🐍 | Instituto Tecnológico Gustavo A. Madero, CDMX | October 10, 2026
+- **[Cumbre de Contribuidores de Open Source Software (CCOSS)](https://ccoss.org/)** 💻 | Anahuac Mayab, Merida, YUC | November 12-14, 2026
+- **[Nerdearla Mexico City: Second Edition](https://nerdearla.com/en/mexico/)** 🤓 | ExpoReforma, CDMX | November 18-21, 2026
+- **[PosaDev](https://posadev.org/)** 🎄 | Holiday Inn Guadalajara Expo, GDL | November 28th, 2026
 
 ---
 
